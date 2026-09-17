@@ -21,10 +21,10 @@ flasgger = "0.9.7b2"
 pytest-mock = "^3.11.1"
 pytest = "^7.4.0"
 pytest-cov = "^4.1.0"
+psycopg2-binary = "^2.9.13"
 
 [tool.poetry.group.dev.dependencies]
 Flask = "^2.3.2"
-psycopg2 = "^2.9.6"
 pyyaml = ">=6.0.1"
 
 [build-system]
